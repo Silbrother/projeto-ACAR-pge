@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#3d74ad</color>
+    <color name="colorPrimaryDark">#003770</color>
+    <color name="colorAccent">#47fba4</color>
 </resources>
+  <!--  #003770
+    CoresHexadecimaldoLogo
+    #47ϐba4
+    #6089b7
+    #32cccb
+    #3d74ad
+  -->

@@ -123,10 +123,10 @@ public class MainActivity extends AppCompatActivity {
                     rootView = inflater.inflate(R.layout.fragment_main,container,false);
                     break;
                 case 2:
-                    rootView = inflater.inflate(R.layout.fragment_main, container,false);
+                    rootView = inflater.inflate(R.layout.fragment_fragment_graficco, container,false);
                     break;
                 case 3:
-                    rootView = inflater.inflate(fragment_fragment_graficco, container, false);
+                    rootView = inflater.inflate(R.layout.content_grafico, container, false);
                     break;
                 default:
             }
